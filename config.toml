@@ -1,0 +1,56 @@
+baseurl = "http://www.example.com"
+title = "BFFS | Big Fork Food Services"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Big Fork Food Services"
+    info = "a Los Angeles Catering Experience"
+    description = "BFFS"
+    keywords = "Los Angeles Caterer, Catering, Food Services"
+    avatarurl = "images/eatbffslogo.png"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "quality & service > everything."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope fa-2x"
+    weight = 1
+    url = "mailto: info@eatbffs.com"
+[[params.social]]
+    name = "Call Now"
+    icon = "fas fa-phone fa-2x"
+    weight = 2
+    url = "tel: 3108784021"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
