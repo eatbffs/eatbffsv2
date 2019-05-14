@@ -25,7 +25,7 @@ disqusShortname = "yourdiscussshortname"
 
     footercontent = "quality & service > everything."
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = false
 
     rtl = false
