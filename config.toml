@@ -43,7 +43,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Call Now"
     icon = "fas fa-phone fa-2x"
     weight = 2
-    url = "tel:3108784021"
+    url = "tel:+13108784021"
 
 # Menu links
 [[menu.main]]
