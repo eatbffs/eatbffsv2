@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://www.eatbffs.com"
 title = "BFFS | Big Fork Food Services"
 theme = "hugo-coder"
 languagecode = "en"
