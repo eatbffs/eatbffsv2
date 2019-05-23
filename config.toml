@@ -44,6 +44,21 @@ disqusShortname = "yourdiscussshortname"
     icon = "fas fa-phone fa-2x"
     weight = 2
     url = "tel:+13108784021"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/eatbffs/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook"
+    weight = 4
+    url = "https://facebook.com/eatbffs/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram"
+    weight = 5
+    url = "https://instagram.com/eatbffs/"
 
 # Menu links
 [[menu.main]]
