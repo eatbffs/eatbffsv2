@@ -13,10 +13,10 @@ series = []
 
 
 **Pick Your Base (Pick One)**
-White Rice
-Brown Rice
-Noodles
-Fried Rice
+* White Rice
+* Brown Rice
+* Noodles
+* Fried Rice
 
 Add Your Protein (Pick One)
 Grilled Chicken Steak
