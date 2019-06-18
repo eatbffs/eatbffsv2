@@ -12,8 +12,7 @@ series = []
 
 
 
-Pick Your Base (Pick One)
-
+**Pick Your Base (Pick One)**
 White Rice
 Brown Rice
 Noodles
